@@ -1,0 +1,4 @@
+Meat
+Vegetable
+fruit
+fish
